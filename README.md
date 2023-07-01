@@ -36,9 +36,9 @@ The worst thing you might think or do is complaining : "I worked so hard on that
 
 Well yes, sorry buddy but somebody did a better meme than you and it is fine !
 
-Here's instead few VERY things important you must understand and focus on :
+Here are instead some VERY things important you must understand and focus on :
 
-- Making memes is about having fun. Never forget that.
+- Making memes should be fun and make you laugh. Never forget that.
 - Meme bounty is a weekly bounty, meaning you might win next time if you do a better meme
 - If you do better memes, then it will force everybody to improve and do better memes
 - Better memes globally, means more visibility for the step project (as great memes are more shared)
