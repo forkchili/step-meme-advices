@@ -38,7 +38,6 @@ Well yes, sorry buddy but somebody did a better meme than you and it is fine !
 
 Here are instead some VERY things important you must understand and focus on :
 
-- Making memes should be fun and make you laugh. Never forget that.
 - Meme bounty is a weekly bounty, meaning you might win next time if you do a better meme
 - If you do better memes, then it will force everybody to improve and do better memes
 - Better memes globally, means more visibility for the step project (as great memes are more shared)
@@ -48,7 +47,7 @@ Here are instead some VERY things important you must understand and focus on :
 
 So yeah, no matter the competion result: Learn, improve, interact and have fun :)
 
-
+If making memes makes you angry and sad because you don't win the bounty, maybe it is time to stop (and look at other bounties lol)
 
 
 https://github.com/forkchili/step-meme-advices/assets/136859765/e7d64415-f1f7-4ece-9b3e-83b4070789de
