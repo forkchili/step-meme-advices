@@ -1,3 +1,8 @@
 # step-meme-advices
 advices to create great step finance memes lol
-[spongesecretlol.webm](https://github.com/forkchili/step-meme-advices/assets/136859765/1709adf5-53ac-4038-b0eb-dcb07b54bb92)
+
+
+
+
+https://github.com/forkchili/step-meme-advices/assets/136859765/e7d64415-f1f7-4ece-9b3e-83b4070789de
+
