@@ -11,8 +11,24 @@ You might use these advices for creativity purposes that may help you in your li
 
 So without further do, let's start ! 
 
+## Meme mentality
 
-As promised, I would like
+Before even talking about skills and tools for meme crafting, let's take a minute to talk about the mindset you may use to create your future meme masterpiece.
+
+Memes are powerful things that makes us smile. 
+That is your ultimate goal : **To make people smile !**
+
+So first step when creating a meme is to find an situation or a joke that really makes you say "oh man that is funny!".
+
+**If it is not making you genuinely laugh, then don't expect it to make other people laugh.**
+
+![soup](https://github.com/forkchili/step-meme-advices/assets/136859765/4176ff8a-8b04-4588-8d8e-ed9162836479)
+
+If it not making steppers laugh, then no step meme bounty reward for you!
+
+
+
+
 
 
 
