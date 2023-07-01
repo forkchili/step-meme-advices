@@ -24,13 +24,29 @@ So first step when creating a meme is to find an situation or a joke that really
 
 ![soup](https://github.com/forkchili/step-meme-advices/assets/136859765/4176ff8a-8b04-4588-8d8e-ed9162836479)
 
-If it not making steppers laugh, then no step meme bounty reward for you!
+In other words : If it's not making steppers laugh... Then no step meme bounty reward for you!
 
+## Meme bounty mentality
 
+One last thing before jumping in pure cool tricks and tips for meme making ! Let's talk about how you should live and handle the meme bounty.
 
+The step meme bounty is a competition, you are competing with other steppers. That means you may or may not win.
 
+The worst thing you might think or do is complaining : "I worked so hard on that meme and did not win! :(((("
 
+Well yes, sorry buddy but somebody did a better meme than you and it is fine !
 
+Here's instead few VERY things important you must understand and focus on :
+
+- Making memes is about having fun. Never forget that.
+- Meme bounty is a weekly bounty, meaning you might win next time if you do a better meme
+- If you do better memes, then it will force everybody to improve and do better memes
+- Better memes globally, means more visibility for the step project (as great memes are more shared)
+- more visibility means for users, which means potentially more great memes, meaning more visibility.... again and again... Or in other words, step to the moon (or to saturn... another great meme I did lol)
+
+**That is called a virtuous circle ser !**
+
+So yeah, no matter the competion result: Learn, improve, interact and have fun :)
 
 
 
