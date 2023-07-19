@@ -57,7 +57,7 @@ Alright ! Now that this is out of the way, let's talk about techniques and skill
 
 Here's, step by step, my secret recipe for creating a cool funky juicy meme :
 
-0) Unofficial rule
+### 0 - Unofficial rule
 
 There's an unofficial meme rule that you must keep in mind : 
 Generally, in term of meme quality :
