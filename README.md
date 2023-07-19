@@ -117,7 +117,7 @@ No fear ser, I will answer it all right here ! (Everything I will list here are 
 
     Layers : A video is ultimately just layers of element on top of each other, exactly as in a stack of paper. The first one on top covers the rest under. With this in mind, with all the changes you can do on each elements, well you can do VERY cool stuff !
 
-    - For voices, I use https://uberduck.ai/. It is a free website, that will generate text to speech audio clips from famous pop culture characters. I used it for spongebob and the infamous hans moleman from the simpsons. It is not perfect, but hey it's free !
+- For voices, I use https://uberduck.ai/. It is a free website, that will generate text to speech audio clips from famous pop culture characters. I used it for spongebob and the infamous hans moleman from the simpsons. It is not perfect, but hey it's free !
 
 - For image generation (text to image), I use a mix of midjourney, freewayml.com, dall-e, craiyon.com.
     Sometimes I need a specific image or representation of something, so I use these, because you know... I can't draw :(
