@@ -134,7 +134,7 @@ No fear ser, I will answer it all right here !
     - Python (for automating some quick tasks like video to frames, and also doing the fake python script "how to get rich with step" in windows xp. Learn to code people ! It will always be useful !!!) 
     - Handbrake, for video format conversion
     - ChatGPT, because google was sometimes not precise enough
-    - https://cleanup.pictures It allows you to remove an element of a picture. That is super cool, specially when we don't have time to do a great photoshop cleaning.
+    - https://cleanup.pictures It allows you to remove an element of a picture. That is super cool, especially when we don't have time to do a great photoshop cleaning.
 
 ### 5 - Export and watch the meme
 
