@@ -74,7 +74,7 @@ That's the reason why, my very first meme was a gif, but then it was only videos
 
 Everybody can photoshop some text on the freaking lisa simpson board meme (not funny, stop doing that!!!), but not everybody can come up with a mario 64 rom hack level made with step logos ;)
 
-1) Find an idea
+### 1 - Find an idea
 
 As I said before, that is, in my opinion, the trickiest part, as comedy is hard. 
 Source of inspiration could be anything : look at random youtube videos, remember stuff that made you laugh, search for stupidly ridiculous situations ect... Anything could be the origin story of a meme. Just think about it and shape it !
@@ -82,18 +82,18 @@ Source of inspiration could be anything : look at random youtube videos, remembe
 Example :
 I was at my desk and out of nowhere I remembered these lousy youtube tutorials you had in 2007, with no mic, awful music and writtings in notepad. I immediately thought "Hey ! How about a parody of this but for step?!". The idea was so funny to me that I had to make it. During the whole creation process I was crying of laughter. THAT is idealy what you're looking for !
 
-2) Estimate how difficult and how long the meme will take to do
+### 2 - Estimate how difficult and how long the meme will take to do
 
 What skills does it take to do that meme ? Which softwares do I need ? Can I even do that ? Are there videos on the internet that explains how to do this particular thing ? Do I have the time to do that right now ?
 
 Ask yourself the right questions before jumping on a meme creation journey, as it could get long and sometimes exhausting.
 
-3) Gather everything will need
+### 3 - Gather everything will need
 
 Make a list of all the images, videos, sounds you will need and gather everything in a single folder. If you have a doubt on what you need, well youtube tutorials, google search and asking around are your best options !
 It is a great opportunity to learn dear stepper !
 
-4) Do the actual meme
+### 4 - Do the actual meme
 
 That is I believe the part you've been really waiting for... **But Fork-sensai... How do I actually do the meme ?! What did you use to do so and so ?**.
 
@@ -136,12 +136,12 @@ I used it heavily to remove the original bubble in the spongebob bubble meme.
     - Handbrake, for video format conversion
     - ChatGPT, because google was sometimes not precise enough
 
-5) Export and watch the meme
+### 5 - Export and watch the meme
 
 Ok, it is done. Does it work? Does it make you laugh ? Final result is great ? 
 Yes ? Then time to share it with the world ! 
 
-6) Do it all over again
+### 6 - Do it all over again
 
 It is a journey, so if you like it, do it again, learn, and the ride.
 
@@ -149,7 +149,7 @@ My main advice here is : search and learn. Eveything can be found on the interne
 
 Learn and improve yourself and your memes can only get better :) !
 
-## Exclusive example
+## Exclusive example of meme lord fork's skills
 
 I want to end this long documentation with a clear example of all the skills I presented.
 
