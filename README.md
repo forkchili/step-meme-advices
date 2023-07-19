@@ -95,9 +95,11 @@ Make a list of all the images, videos, sounds you will need and gather everythin
 
 That is I believe the part you've been really waiting for... 
 
-**But Fork-sensai... How do I actually do the meme ?! What did you use to do so and so ?**.
+**But Fork-sensai... How do I actually do the meme ?! What did you use to do so and so ?**
 
-No fear ser, I will answer it all right here ! (Everything I will list here are tools only available on computer. Some people asked me about mobile tool. but come on... mobile? really? We're nerds ! We use real computers !!!11).
+No fear ser, I will answer it all right here ! 
+
+(Everything I will list here are tools only available on computer. Some people asked me about mobile tools... Come on... mobile? really? We're nerds ! We use real computers !!!11).
 
 - For image editing, I use photoshop, or photopea (free). It could be used for static meme image editing (for example, putting text on a freaking lisa simpson board meme... DON'T DO THAT PLEASE!!!!!!), or in my case, editing some frames of the video I am producing.
 
