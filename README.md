@@ -101,32 +101,32 @@ No fear ser, I will answer it all right here ! (Everything I will list here are 
 
 - For image editing, I use photoshop, or photopea (free). It could be used for static meme image editing (for example, putting text on a freaking lisa simpson board meme... DON'T DO THAT PLEASE!!!!!!), or in my case, editing some frames of the video I am producing.
 
-"Frames ?!" you might ask. Well yes ! Some of my videos need frame by frame editing ! I litterally export frames of the videos (using vlc screenshot functionnally because I am lazy) and edit the  to then attach them in my video editing program.
+    "Frames ?!" you might ask. Well yes ! Some of my videos need frame by frame editing ! I litterally export frames of the videos (using vlc screenshot functionnally because I am lazy) and edit the  to then attach them in my video editing program.
 
-Talkin about video editing...
+    Talkin about video editing...
 
 - For video editing, I use davinci resolve (free). 
 
-In an editing software, you can cut, crop, move (vertically, horizontally, rotation ect...), change size ANY element imported in your project (video, images...).
+    In an editing software, you can cut, crop, move (vertically, horizontally, rotation ect...), change size ANY element imported in your project (video, images...).
 
-All these incredible features that will help you achieve the most important thing when video editing : **manage timings, animations and layers!**
+    All these incredible features that will help you achieve the most important thing when video editing : **manage timings, animations and layers!**
 
-Timing : Cut correctly your videos and sound ! There should not be any delay, and with no imperfection. That is the skeleton of your video. It is not well made, your meme will not work.
+    Timing : Cut correctly your videos and sound ! There should not be any delay, and with no imperfection. That is the skeleton of your video. It is not well made, your meme will not work.
 
-Animation : If you have stuff to move, crop, reduce or increase size in your video over time, do it as precise as possible ! I hate to break it to you, but yeah, frame by frame animation is a thing lol. Search on youtube for keyframe tutorials
+    Animation : If you have stuff to move, crop, reduce or increase size in your video over time, do it as precise as possible ! I hate to break it to you, but yeah, frame by frame animation is a thing lol. Search on youtube for keyframe tutorials
 
-Layers : A video is ultimately just layers of element on top of each other, exactly as in a stack of paper. The first one on top covers the rest under. With this in mind, with all the changes you can do on each elements, well you can do VERY cool stuff !
+    Layers : A video is ultimately just layers of element on top of each other, exactly as in a stack of paper. The first one on top covers the rest under. With this in mind, with all the changes you can do on each elements, well you can do VERY cool stuff !
 
-- For voices, I use https://uberduck.ai/. It is a free website, that will generate text to speech audio clips from famous pop culture characters. I used it for spongebob and the infamous hans moleman from the simpsons. It is not perfect, but hey it's free !
+    - For voices, I use https://uberduck.ai/. It is a free website, that will generate text to speech audio clips from famous pop culture characters. I used it for spongebob and the infamous hans moleman from the simpsons. It is not perfect, but hey it's free !
 
 - For image generation (text to image), I use a mix of midjourney, freewayml.com, dall-e, craiyon.com.
-Sometimes I need a specific image or representation of something, so I use these, because you know... I can't draw :(
+    Sometimes I need a specific image or representation of something, so I use these, because you know... I can't draw :(
 
-I used freewayml to generate all the step deformed images for the step get uncanny meme.
+    I used freewayml to generate all the step deformed images for the step get uncanny meme.
 
 - Bonus tool I love to share : https://cleanup.pictures/ It allows you to remove an element of a picture. That is super cool, specially when we don't have time to do a great photoshop cleaning.
 
-I used it heavily to remove the original bubble in the spongebob bubble meme.
+    I used it heavily to remove the original bubble in the spongebob bubble meme.
 
 - Here's a list of random software I used maybe once or twice though my meme journey. Pick up what you need lol
 
