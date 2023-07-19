@@ -79,7 +79,7 @@ As I said before, that is, in my opinion, the trickiest part, as comedy is hard.
 Source of inspiration could be anything : look at random youtube videos, remember stuff that made you laugh, search for stupid situations ect... Anything could be the origin story of a meme. Just think about it and shape it !
 
 Example :
-I was at my desk and out of nowhere I remembered these lousy youtube tutorials you had in 2007, with no mic, awful music and writtings in notepad. I immediately thought "Hey ! How about a parody of this but for step?!". The idea was so funny to me that I had to make it. During the whole creation process I was crying of laughter. THAT is idealy what you're looking for !
+I was at my desk and out of nowhere I remembered these lousy youtube tutorials you had in 2007, with no mic, awful music and writtings in notepad. I immediately thought "Hey ! How about a parody of this but for step?!". The idea was so funny to me that I had to make it. During the whole creation process I was crying of laughter. THAT is ideally what you're looking for !
 
 ### 2 - Estimate how difficult and how long the meme will take to do
 
