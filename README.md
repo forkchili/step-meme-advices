@@ -113,11 +113,11 @@ No fear ser, I will answer it all right here !
 
     All these incredible features will help you achieve the most important thing when video editing : **manage timings, animations and layers!**
 
-    Timing : Cut correctly your videos and sound ! There should not be any delay, or timing imperfection. That is the skeleton of your video. If it is not well made, your meme will not work.
+    <u>Timing:</u> Cut correctly your videos and sound ! There should not be any delay, or timing imperfection. That is the skeleton of your video. If it is not well made, your meme will not work.
 
-    Animation : If you have stuff to move, crop, reduce or increase size in your video over time, do it as precise as possible ! I hate to break it to you, but yeah, frame by frame animation is a thing lol. Search on youtube for keyframe tutorials.
+    <u>Animation:</u> If you have stuff to move, crop, reduce or increase size in your video over time, do it as precise as possible ! I hate to break it to you, but yeah, frame by frame animation is a thing lol. Search on youtube for keyframe tutorials.
 
-    Layers : A video is ultimately just layers of elements on top of each other, exactly as in a stack of paper. The first one on top covers the rest under. With this in mind, with all the modifications you can do on each elements, well you can do VERY cool stuff !
+    <u>Layers:</u> A video is ultimately just layers of elements on top of each other, exactly as in a stack of paper. The first one on top covers the rest under. With this in mind, with all the modifications you can do on each elements, well you can do VERY cool stuff !
 
 - For character voices, I use https://uberduck.ai/. It is a free website, that will generate text to speech audio clips from famous pop culture characters. I used it for spongebob and the infamous hans moleman from the simpsons. It is not perfect, but hey it's free !
 
