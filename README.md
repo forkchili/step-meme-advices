@@ -59,25 +59,24 @@ Here's, step by step, my secret recipe for creating a cool funky juicy meme :
 
 ### 0 - Unofficial rule
 
-There's an unofficial meme rule that you must keep in mind : 
-Generally, in term of meme quality :
+There's an unofficial meme rule that you must keep in mind. Generally, in term of meme quality :
 
 **video game > video with sound > video without sound (or gif) > plain image**
 
-That rule is right, let's say 90% of the time. A nicely funny edited video will always be percived as higher quality than a random image on which you put some text.
+That rule is real maybe 90% of the time. A nicely funny edited video will always be perceived as higher quality than a random image on which you put some text.
 
-Keep in mind that hierarchy of content before starting your meme, as obviosuly, the better you go, the longer and time consumming to craft it will get.
-
-I am NOT saying that an image can't be funnier or better than a nice video, but my point being you REALLY must have a gem of an image and joke to compete with a video (in general).
-
-That's the reason why, my very first meme was a gif, but then it was only videos, to recently finish with a video game.
+Keep in mind that hierarchy of content before starting your meme, as obviously, the better you go, the more time-consuming it will get.
 
 Everybody can photoshop some text on the freaking lisa simpson board meme (not funny, stop doing that!!!), but not everybody can come up with a mario 64 rom hack level made with step logos ;)
+
+I am NOT saying that an image can't be funnier or better than a nice video, but my point is you REALLY must have a gem of an image and joke to compete with a video (in general).
+
+My very first meme was a gif, but then it was only videos, to recently finish with a video game.
 
 ### 1 - Find an idea
 
 As I said before, that is, in my opinion, the trickiest part, as comedy is hard. 
-Source of inspiration could be anything : look at random youtube videos, remember stuff that made you laugh, search for stupidly ridiculous situations ect... Anything could be the origin story of a meme. Just think about it and shape it !
+Source of inspiration could be anything : look at random youtube videos, remember stuff that made you laugh, search for stupid situations ect... Anything could be the origin story of a meme. Just think about it and shape it !
 
 Example :
 I was at my desk and out of nowhere I remembered these lousy youtube tutorials you had in 2007, with no mic, awful music and writtings in notepad. I immediately thought "Hey ! How about a parody of this but for step?!". The idea was so funny to me that I had to make it. During the whole creation process I was crying of laughter. THAT is idealy what you're looking for !
@@ -86,47 +85,49 @@ I was at my desk and out of nowhere I remembered these lousy youtube tutorials y
 
 What skills does it take to do that meme ? Which softwares do I need ? Can I even do that ? Are there videos on the internet that explains how to do this particular thing ? Do I have the time to do that right now ?
 
-Ask yourself the right questions before jumping on a meme creation journey, as it could get long and sometimes exhausting.
+Ask yourself the right questions before jumping on a meme creation journey, as it could get sometimes exhausting. Once again, searching and learning is the key if you're lost !
 
-### 3 - Gather everything will need
+### 3 - Gather everything you will need
 
-Make a list of all the images, videos, sounds you will need and gather everything in a single folder. If you have a doubt on what you need, well youtube tutorials, google search and asking around are your best options !
-It is a great opportunity to learn dear stepper !
+Make a list of all the images, videos, sounds you will need and gather everything in a single folder. If you have a doubt on what you need, well again, youtube tutorials, google search and asking around are your best options !
 
 ### 4 - Do the actual meme
 
-That is I believe the part you've been really waiting for... **But Fork-sensai... How do I actually do the meme ?! What did you use to do so and so ?**.
+That is I believe the part you've been really waiting for... 
 
-No fear ser, I will answer it all right here ! (Everything I will list here are tools only available on computer).
+**But Fork-sensai... How do I actually do the meme ?! What did you use to do so and so ?**.
+
+No fear ser, I will answer it all right here ! (Everything I will list here are tools only available on computer. Some people asked me about mobile tool. but come on... mobile? really? We're nerds ! We use real computers !!!11).
 
 - For image editing, I use photoshop, or photopea (free). It could be used for static meme image editing (for example, putting text on a freaking lisa simpson board meme... DON'T DO THAT PLEASE!!!!!!), or in my case, editing some frames of the video I am producing.
 
-    "Frames ?!" you might ask. Well yes ! Some of my videos need frame by frame editing ! I litterally export frames of the videos (using vlc screenshot functionnally because I am lazy) and edit the  to then attach them in my video editing program.
+    "Frames ?!" you might ask. Well yes ! Some of my videos need frame by frame editing ! I literally export frames of the videos (using python or vlc screenshot functionnally), edit them, to then put it all in my video editing program.
 
     Talkin about video editing...
 
-- For video editing, I use davinci resolve (free). 
+- For video editing, I use davinci resolve (free).
 
-    In an editing software, you can cut, crop, move (vertically, horizontally, rotation ect...), change size ANY element imported in your project (video, images...).
+    In an editing software, you can cut, crop, move (vertically, horizontally, rotation ect...), change size, apply effect, on ANY element imported in your project (video, images...).
 
-    All these incredible features that will help you achieve the most important thing when video editing : **manage timings, animations and layers!**
+    All these incredible features will help you achieve the most important thing when video editing : **manage timings, animations and layers!**
 
-    Timing : Cut correctly your videos and sound ! There should not be any delay, and with no imperfection. That is the skeleton of your video. It is not well made, your meme will not work.
+    Timing : Cut correctly your videos and sound ! There should not be any delay, and with no imperfection. That is the skeleton of your video. IF it is not well made, your meme will not work.
 
-    Animation : If you have stuff to move, crop, reduce or increase size in your video over time, do it as precise as possible ! I hate to break it to you, but yeah, frame by frame animation is a thing lol. Search on youtube for keyframe tutorials
+    Animation : If you have stuff to move, crop, reduce or increase size in your video over time, do it as precise as possible ! I hate to break it to you, but yeah, frame by frame animation is a thing lol. Search on youtube for keyframe tutorials.
 
-    Layers : A video is ultimately just layers of element on top of each other, exactly as in a stack of paper. The first one on top covers the rest under. With this in mind, with all the changes you can do on each elements, well you can do VERY cool stuff !
+    Layers : A video is ultimately just layers of elements on top of each other, exactly as in a stack of paper. The first one on top covers the rest under. With this in mind, with all the modifications you can do on each elements, well you can do VERY cool stuff !
 
-- For voices, I use https://uberduck.ai/. It is a free website, that will generate text to speech audio clips from famous pop culture characters. I used it for spongebob and the infamous hans moleman from the simpsons. It is not perfect, but hey it's free !
+- For character voices, I use https://uberduck.ai/. It is a free website, that will generate text to speech audio clips from famous pop culture characters. I used it for spongebob and the infamous hans moleman from the simpsons. It is not perfect, but hey it's free !
 
 - For image generation (text to image), I use a mix of midjourney, freewayml.com, dall-e, craiyon.com.
     Sometimes I need a specific image or representation of something, so I use these, because you know... I can't draw :(
 
-    I used freewayml to generate all the step deformed images for the step get uncanny meme.
+    I used freewayml to generate all the step guy deformed images for the step guy get uncanny meme.
 
 - Bonus list of random tools I used though my meme journey. Pick up what you need lol
 
     - Virtualbox (for having windows xp for my xp tutorial meme)
+    - SM64 Rom manager, to change items in mario 64
     - OBS (for screen recording)
     - Python (for automating some quick tasks like video to frames, and also doing the fake python script "how to get rich with step in windows xp. Learn to code people ! It will always be useful !!!) 
     - Handbrake, for video format conversion
@@ -135,16 +136,12 @@ No fear ser, I will answer it all right here ! (Everything I will list here are 
 
 ### 5 - Export and watch the meme
 
-Ok, it is done. Does it work? Does it make you laugh ? Final result is great ? 
+Ok, it is done. Does it work? Does it make you laugh ?
 Yes ? Then time to share it with the world ! 
 
 ### 6 - Do it all over again
 
-It is a journey, so if you like it, do it again, learn, and the ride.
-
-My main advice here is : search and learn. Eveything can be found on the internet. You have a billion tutorial on how to do anything. Infinite knowledge my friend. Real question is not "how to do so and so", but rather "Do I want to learn it?".
-
-Learn and improve yourself and your memes can only get better :) !
+It is a journey, so if you like it, do it again, learn and enjoy the ride :) !
 
 ## Exclusive example of meme lord fork's skills
 
@@ -160,4 +157,14 @@ https://github.com/forkchili/step-meme-advices/assets/136859765/e7d64415-f1f7-4e
 
 ## Final words
 
-Hope that will inspire you and help you in your question to get better ! 
+The main advice I would like to share with everybody is : **be curious, search, learn and practice**. 
+That is not only for meme, but for life in general. Ask questions, look it up, learn, and enjoy the journey !
+
+Today, everything can be found on the internet. You have billions of tutorial on how to do anything. Infinite knowledge ser. Real question is not "how to do so and so", but rather "Do I want to learn it?".
+
+Improve yourself and your memes can only get better :) !
+Hope that will inspire you and help you in your own quest ! 
+
+Fork Chili out,
+
+Cheers !🥂
