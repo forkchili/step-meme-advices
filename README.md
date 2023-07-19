@@ -128,6 +128,14 @@ I used freewayml to generate all the step deformed images for the step get uncan
 
 I used it heavily to remove the original bubble in the spongebob bubble meme.
 
+- Here's a list of random software I used maybe once or twice though my meme journey. Pick up what you need lol
+
+    - Virtualbox (for having windows xp for my xp tutorial meme)
+    - OBS (for screen recording)
+    - Python (for automating some quick tasks like video to frames, and also doing the fake python script "how to get rich with step in windows xp. Learn to code people ! It will always be useful !!!) 
+    - Handbrake, for video format conversion
+    - ChatGPT, because google was sometimes not precise enough
+
 5) Export and watch the meme
 
 Ok, it is done. Does it work? Does it make you laugh ? Final result is great ? 
