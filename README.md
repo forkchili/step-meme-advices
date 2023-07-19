@@ -121,11 +121,38 @@ Layers : A video is ultimately just layers of element on top of each other, exac
 
 - For image generation (text to image), I use a mix of midjourney, freewayml.com, dall-e, craiyon.com.
 Sometimes I need a specific image or representation of something, so I use these, because you know... I can't draw :(
-I use freewayml to generate all the step deformed images fort
 
+I used freewayml to generate all the step deformed images for the step get uncanny meme.
 
-(I made a 2007 tutorial of how to get rich with step ! I had to install windows xp for that meme ! Yeah that's commitment !)
+- Bonus tool I love to share : https://cleanup.pictures/ It allows you to remove an element of a picture. That is super cool, specially when we don't have time to do a great photoshop cleaning.
 
+I used it heavily to remove the original bubble in the spongebob bubble meme.
+
+5) Export and watch the meme
+
+Ok, it is done. Does it work? Does it make you laugh ? Final result is great ? 
+Yes ? Then time to share it with the world ! 
+
+6) Do it all over again
+
+It is a journey, so if you like it, do it again, learn, and the ride.
+
+My main advice here is : search and learn. Eveything can be found on the internet. You have a billion tutorial on how to do anything. Infinite knowledge my friend. Real question is not "how to do so and so", but rather "Do I want to learn it?".
+
+Learn and improve yourself and your memes can only get better :) !
+
+## Exclusive example
+
+I want to end this long documentation with a clear example of all the skills I presented.
+
+Let's talk about the spongebob bubble meme. That was I believe the most challenging one, as it required, animation, cropping, timing, image removal, ai voices, and frame by frame keyframe animation. 
+
+But text is for nerds ! Here's a video to explain my point.
+Cheers ! 
 
 https://github.com/forkchili/step-meme-advices/assets/136859765/e7d64415-f1f7-4ece-9b3e-83b4070789de
 
+
+## Final words
+
+Hope that will inspire you and help you in your question to get better ! 
