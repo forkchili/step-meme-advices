@@ -113,7 +113,7 @@ No fear ser, I will answer it all right here !
 
     All these incredible features will help you achieve the most important thing when video editing : **manage timings, animations and layers!**
 
-    Timing : Cut correctly your videos and sound ! There should not be any delay, and with no imperfection. That is the skeleton of your video. IF it is not well made, your meme will not work.
+    Timing : Cut correctly your videos and sound ! There should not be any delay, or timing imperfection. That is the skeleton of your video. If it is not well made, your meme will not work.
 
     Animation : If you have stuff to move, crop, reduce or increase size in your video over time, do it as precise as possible ! I hate to break it to you, but yeah, frame by frame animation is a thing lol. Search on youtube for keyframe tutorials.
 
