@@ -159,12 +159,14 @@ https://github.com/forkchili/step-meme-advices/assets/136859765/e7d64415-f1f7-4e
 
 ## Final words
 
-The main advice I would like to share with everybody is : **be curious, search, learn and practice**. 
-That is not only for meme, but for life in general. Ask questions, look it up, learn, and enjoy the journey !
+The main advice I would like to share with everybody is : **be curious, search, learn and practice !**
+
+That is not only for meme making, but life in general. Ask questions, look it up, learn, and enjoy the journey !
 
 Today, everything can be found on the internet. You have billions of tutorial on how to do anything. Infinite knowledge ser. Real question is not "how to do so and so", but rather "Do I want to learn it?".
 
 Improve yourself and your memes can only get better :) !
+
 Hope that will inspire you and help you in your own quest ! 
 
 Fork Chili out,
