@@ -115,7 +115,7 @@ No fear ser, I will answer it all right here !
 
     - Timing : Cut correctly your videos and sound ! There should not be any delay, or timing imperfection. That is the skeleton of your video. If it is not well made, your meme will not work.
 
-    - Animation : If you have stuff to move, crop, reduce or increase size in your video over time, do it as precise as possible ! I hate to break it to you, but yeah, frame by frame animation is a thing lol. Search on youtube for keyframe tutorials.
+    - Animation : If you have stuff to move, crop, reduce or increase size in your video over time, do it as precisely as possible ! I hate to break it to you, but yeah, frame by frame animation is a thing lol. Search on youtube for keyframe tutorials.
 
     - Layers : A video is ultimately just layers of elements on top of each other, exactly as in a stack of paper. The first one on top covers the rest under. With this in mind, with all the modifications you can do on each elements, well you can do VERY cool stuff !
 
